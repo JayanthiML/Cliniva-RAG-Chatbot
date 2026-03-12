@@ -1,0 +1,11 @@
+1) Ollama
+    Total Time (Non-Streaming): 52.26 seconds
+
+    Time to First Token: 0.4 seconds
+    Total Time (Streaming): 47.15 seconds
+
+2) OpenAI
+    Total Time (Non-Streaming): 7.92 seconds
+
+    Time to First Token: 2.77 seconds
+    Total Time (Streaming): 8.1 seconds

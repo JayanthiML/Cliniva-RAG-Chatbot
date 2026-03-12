@@ -1,0 +1,189 @@
+AAROGYA ADVANCED CARE INSTITUTE (AACI)
+Institutional Knowledge Document
+________________________________________
+1.	Institutional Overview
+Aarogya Advanced Care Institute (AACI) is a super-speciality tertiary care hospital established in 2018 and located in MVP Colony, Sector 5, Visakhapatnam, Andhra Pradesh, India.
+AACI is designed as a focused-care institution specializing in:
+•	Interventional Cardiology
+•	Neurology and Neurosurgery
+•	High-Risk Obstetrics and Maternal-Fetal Medicine
+•	Critical Cardiac and Neuro Emergency Stabilization
+The hospital does not operate as a general multi-speciality facility. Cases outside the above focus areas are referred to partner institutions under formal referral agreements.
+Total Bed Capacity: 180
+ICU Beds: 32
+Modular Operation Theatres: 5
+Cath Labs: 1 Hybrid Cath Lab
+________________________________________
+2.	Clinical Scope Restrictions
+AACI does not provide the following services:
+•	Cosmetic surgery
+•	Organ transplantation
+•	Routine psychiatry admissions
+•	Elective general surgery
+•	Routine antenatal care for low-risk pregnancies
+•	Long-term trauma rehabilitation
+Medico-legal accident cases are stabilized and transferred unless cardiac or neurological intervention is required.
+________________________________________
+3.	Emergency Cardiac Response Protocol – Code 12
+Code 12 is AACI’s proprietary heart attack rapid intervention system.
+Definition:
+Code 12 is activated when a patient presents with symptoms suggestive of acute coronary syndrome.
+Mandatory Timeline Requirements:
+•	ECG within 3 minutes of arrival
+•	Cardiac enzyme testing initiated within 8 minutes
+•	Cardiologist evaluation within 12 minutes
+•	Cath Lab readiness within 20 minutes
+Target Door-to-Balloon Time: Less than 45 minutes
+If Door-to-Balloon time exceeds 45 minutes, the case is reviewed by the Clinical Audit Committee within 48 hours.
+Only the on-call interventional cardiologist may authorize deviation from protocol.
+________________________________________
+4.	NeuroShield Stroke Grid System
+AACI operates under the NeuroShield Stroke Grid for structured stroke classification.
+All stroke patients are categorized into:
+Grid A – Eligible for thrombolysis
+Grid B – Mechanical thrombectomy candidates
+Grid C – Conservative medical management
+Mandatory Steps:
+•	AI-assisted CT brain analysis
+•	NIH-based neurological scoring
+•	Digital stroke tracker entry
+•	Physiotherapy consult prior to discharge
+No stroke patient may be discharged without documentation of rehabilitation planning.
+________________________________________
+5.	Proprietary Clinical Programs
+5.1 HeartStrong 360 Program
+Eligibility: Post-angioplasty patients treated at AACI.
+Program Includes:
+•	Three cardiology follow-up consultations within 90 days
+•	One dietician consultation
+•	Two supervised cardiac rehabilitation sessions
+•	One treadmill stress test at 3 months
+Program Cost: INR 18,000
+Validity: 90 days from discharge
+Non-transferable and non-refundable.
+Normal cardiology patients not undergoing angioplasty are not eligible.
+________________________________________
+5.2 Maa Suraksha Platinum Plan
+Designed exclusively for high-risk pregnancies managed by the Maternal-Fetal Medicine unit.
+Includes:
+•	Scheduled fetal Doppler monitoring
+•	Dedicated pregnancy care coordinator
+•	24-hour emergency direct line access
+•	Pre-reserved NICU bed
+•	Lactation counseling session
+Package Cost: INR 1,75,000
+Important Conditions:
+•	Covers Cesarean section only
+•	Does not cover normal vaginal delivery
+•	Valid only for patients registered before 28 weeks gestation
+________________________________________
+5.3 BrainGuard Post-Surgery Recovery Plan
+Applicable to neurosurgery patients discharged from AACI.
+Includes:
+•	Five physiotherapy sessions
+•	Two neuropsychology assessments
+•	One MRI at 40 percent discounted rate
+•	Remote monitoring setup for 14 days
+Program Cost: INR 42,000
+Validity: 60 days post-discharge
+________________________________________
+6.	Doctor-Specific Practice Policies
+6.1 Dr. Aditya Varma
+Chief Interventional Cardiologist
+Experience: 22 years
+Specialization:
+•	Complex bifurcation stenting
+•	Left main coronary interventions
+•	Rotational atherectomy
+Operational Policy:
+•	Maximum of six angioplasty procedures per day
+•	Scheduled Cath Lab days: Monday, Wednesday, Friday
+•	24/7 emergency on-call coverage
+________________________________________
+6.2 Dr. Neeraja Pillai
+Senior Neurosurgeon
+Experience: 18 years
+Specialization:
+•	Awake craniotomy
+•	Aneurysm clipping
+•	Minimally invasive spine surgery
+Elective neuro surgeries are scheduled only on Tuesday and Thursday.
+Emergency neuro OT access is available at all times.
+________________________________________
+6.3 Dr. Shruthi Nair
+Maternal-Fetal Medicine Specialist
+Scope Limited To:
+•	Pre-eclampsia management
+•	Gestational diabetes
+•	Multiple pregnancies
+•	Severe fetal growth restriction
+Routine low-risk antenatal care is not handled by this consultant.
+________________________________________
+7.	Smart Transparency Billing Model (STB)
+All hospital bills are categorized into five structured segments:
+1.	Clinical Charges
+2.	Procedure Charges
+3.	Consumables
+4.	Monitoring Charges
+5.	Coordinator Charges
+Coordinator Charges are unique to AACI and apply to:
+•	High-risk pregnancy cases
+•	Post-cardiac intervention monitoring
+•	Neuro-rehabilitation planning
+Pregnancy Coordinator Fee: INR 7,500 (mandatory for Maa Suraksha patients)
+Cashless Insurance Policy:
+•	Cashless available only for procedures above INR 50,000
+•	Below INR 50,000 handled under reimbursement model
+Accepted Insurance Providers:
+•	Star Health
+•	HDFC Ergo
+•	FHPL TPA
+No other TPAs are accepted.
+________________________________________
+8.	ICU Operational Policy – Golden 6 Rule
+For the first six hours after major surgery:
+•	Mandatory 1:1 nurse-to-patient ratio
+•	No attendants allowed
+•	Continuous monitoring
+•	Consultant-level supervision only
+If patient instability persists, monitoring extends automatically to 12 hours.
+________________________________________
+9.	Digital Infrastructure
+AACI operates under a fully digital ecosystem:
+•	Aarogya EMR Version 4.2
+•	AI-assisted radiology screening
+•	QR-coded patient wristbands
+•	Digital discharge summary within 2 hours of final bill clearance
+Paper prescriptions are not issued.
+________________________________________
+10.	Admission and Referral Policy
+Planned Admission Steps:
+•	Specialist consultation
+•	Diagnostic evaluation
+•	Cost estimation
+•	Insurance pre-authorization (if applicable)
+•	Admission deposit payment
+Emergency Admission:
+•	Immediate triage
+•	Protocol activation (Code 12 or NeuroShield if applicable)
+•	Consent from family
+•	Stabilization
+•	Admission
+Referral Policy:
+Patients requiring services outside AACI’s specialization are referred within 6 hours of stabilization.
+________________________________________
+11.	Discharge Policy
+Discharge Requirements:
+•	Final consultant approval
+•	Discharge summary generation
+•	Medication prescription
+•	Follow-up scheduling
+•	Insurance documentation
+Digital summary is sent to registered email within 2 hours.
+________________________________________
+12.	Internal Compliance and Audit
+•	Monthly review of Code 12 performance
+•	Quarterly Stroke Grid audit
+•	Annual infection control audit
+•	Billing transparency review every six months
+Non-compliance cases are documented and reviewed by the Clinical Governance Board.
