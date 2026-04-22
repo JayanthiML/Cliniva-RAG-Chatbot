@@ -1,6 +1,6 @@
 # CLINIVA – Hospital RAG Chatbot
 
-CLINIVA is an AI-powered **Clinical Assistant Chatbot** built using **LangChain, ChromaDB, OpenAI, and Chainlit**.
+CLINIVA is an AI-powered **Clinical Assistant Chatbot** built using **LangChain, Pinecone, OpenAI, and Chainlit**.
 
 It answers hospital-related queries using a **Retrieval-Augmented Generation (RAG)** pipeline built from the official Seven Hills Hospital website content.
 
@@ -16,7 +16,7 @@ CLINIVA works in three major stages:
 
 When a user asks a question:
  
-→ User Query to Retriever (Chroma Vector DB)  
+→ User Query to Retriever (Pinecone Vector DB)  
 → Retrieve Relevant Chunks  
 → Inject Context into Prompt  
 → Prompt to OpenAI LLM  
@@ -33,9 +33,6 @@ RAG_Chatbot_Project/
 ├── app.py                # Chainlit UI (Frontend + Streaming)
 ├── rag_pipeline.py       # RAG chain logic (Retriever + Augmentation + Generation)
 ├── vectorstore_db.py     # Web scraping + Embedding + Vector DB creation
-├── chroma_db/            # Persistent vector database (generated)
-├── .chainlit/config.toml # Chainlit UI configuration
-├── .env                  # Environment variables (NOT pushed to Git)
 └── README.md
 
 ````
@@ -53,7 +50,7 @@ This file is responsible for:
 - Scraping hospital website data
 - Splitting text into chunks
 - Generating embeddings
-- Storing embeddings in Chroma vector database
+- Storing embeddings in Pinecone vector database
 
 ### What It Does
 
@@ -62,7 +59,7 @@ This file is responsible for:
   - https://www.sevenhillshospital.com/ourdoctorsinmumbai
 - Splits text using `RecursiveCharacterTextSplitter`
 - Generates embeddings using `OpenAIEmbeddings`
-- Stores data in persistent ChromaDB (`chroma_db` folder)
+- Stores data in persistent Pinecone DB 
 
 Run this file once before starting the chatbot:
 
@@ -80,7 +77,7 @@ This file builds the **RAG pipeline**.
 
 It performs:
 
-* Loads persistent ChromaDB
+* Loads persistent Pinecone DB
 * Creates retriever (`top k = 3`)
 * Defines prompt template
 * Initializes OpenAI LLM (`gpt-4o-mini`)
@@ -88,7 +85,7 @@ It performs:
 
 ### Core Components
 
-* `Chroma` → Vector database
+* `Pinecone` → Vector database
 * `Retriever` → Fetch relevant chunks
 * `ChatPromptTemplate` → Inject context into LLM
 * `ChatOpenAI` → Generate answer
@@ -154,7 +151,7 @@ http://localhost:8000
 
 1. User asks a question
 2. Query is embedded
-3. ChromaDB searches for similar chunks
+3. Pinecone searches for similar chunks
 4. Top 3 relevant chunks are retrieved
 5. Retrieved content is injected into prompt
 6. LLM generates context-aware answer
@@ -203,8 +200,6 @@ Run once:
 python vectorstore_db.py
 ```
 
-This creates the `chroma_db` folder.
-
 ---
 
 # Run the Application
@@ -229,7 +224,7 @@ chainlit run app.py
 * Python
 * LangChain
 * OpenAI
-* ChromaDB
+* Pinecone Vector DB
 * Chainlit
 * Web Scraping
 * RAG Architecture
