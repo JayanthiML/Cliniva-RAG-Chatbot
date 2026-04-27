@@ -24,3 +24,6 @@ chroma_db/
 # STREAMLIT / CHAINLIT
 .files/
 .chainlit/
+
+Memory_Layer/memory1.ipynb
+Memory_Layer/memory.py
